@@ -36,5 +36,5 @@ while ( entrada != "Esc" ) {
                
         }
 
-    let entrada = prompt ('Ingrese su Nombre');
+    entrada = prompt ('Ingrese su Nombre');
 }
