@@ -32,9 +32,7 @@ while ( entrada != "Esc" ) {
                     console.log(apellido);
                     console.log(edad);
                 }
-
-               
-        }
+         }
 
     entrada = prompt ('Ingrese su Nombre');
 }
