@@ -19,6 +19,7 @@ while ( nombre !="ESC"  && apellido !="ESC"){
         if ( edad < 18 ){
             
             alert("No puede Ingresar!");
+            break;
            
         } else {
 
