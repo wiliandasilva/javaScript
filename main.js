@@ -33,9 +33,9 @@ while ( nombre !="ESC"  && apellido !="ESC"){
         }
     }
 
-        nombre = prompt ("Ingrese su Nombre");
+    nombre = prompt ("Ingrese su Nombre");
 
-        apellido = prompt ("Ingrese su Apellido");
+    apellido = prompt ("Ingrese su Apellido");
         
 }
 
